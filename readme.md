@@ -6,7 +6,7 @@ A simple tool to draw outline pixel fonts in FontLab.
 Credits
 -------
 
-Developed by Hartmut Bohnacker [http://www.hartmut-bohnacker.de/], based on one of the macro tools included in FontLab.
+Developed by [Hartmut Bohnacker](http://www.hartmut-bohnacker.de/), based on one of the macro tools included in FontLab.
 
 Installation
 ------------
@@ -33,4 +33,4 @@ The size of the brush is set by the attribute self.size (in line 11 of the code)
 License
 -------
 
-BSD License [http://www.opensource.org/licenses/bsd-license.php]
+[BSD License](http://www.opensource.org/licenses/bsd-license.php)
