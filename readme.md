@@ -28,7 +28,7 @@ Using the brush
 Customizing the brush
 ---------------------
 
-The size of the brush is set by the attribute self.size (in line 11 of the code). Change this value if you want other element sizes.
+The size of the brush is set by the attribute `self.size` (in line 11 of the code). Change this value if you want other element sizes.
 
 License
 -------
