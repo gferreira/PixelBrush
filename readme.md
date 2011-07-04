@@ -8,9 +8,9 @@ Credits
 
 Developed by [Hartmut Bohnacker](http://hartmut-bohnacker.de/), based on one of the macro tools included in FontLab.
 
-Additional versions contributed by [Frederik Berlaen](http://typemytype.com/) and [Paul van der Laan](http://type-invaders.com/)
+Additional versions contributed by [Frederik Berlaen](http://typemytype.com/) and [Paul van der Laan](http://type-invaders.com/).
 
-Distributed by Gustavo Ferreira.
+Distributed by [Gustavo Ferreira](http://hipertipo.com/).
 
 Installation
 ------------
