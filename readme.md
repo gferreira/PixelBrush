@@ -6,7 +6,7 @@ A simple tool to draw pixel fonts (outline-based bitmap fonts) in FontLab Studio
 Credits
 -------
 
-Developed by [Hartmut Bohnacker](http://hartmut-bohnacker.de/), based on one of the macro tools included in FontLab.
+Pixel brush was developed by [Hartmut Bohnacker](http://hartmut-bohnacker.de/) in 2005, based on one of the macro tools included in FontLab.
 
 Additional versions contributed by [Frederik Berlaen](http://typemytype.com/) and [Paul van der Laan](http://type-invaders.com/).
 
