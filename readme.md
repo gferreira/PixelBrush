@@ -1,12 +1,16 @@
 PixelBrush
 ==========
 
-A simple tool to draw outline pixel fonts in FontLab.
+A simple tool to draw pixel fonts (outline-based bitmap fonts) in FontLab Studio.
 
 Credits
 -------
 
-Developed by [Hartmut Bohnacker](http://www.hartmut-bohnacker.de/), based on one of the macro tools included in FontLab.
+Developed by [Hartmut Bohnacker](http://hartmut-bohnacker.de/), based on one of the macro tools included in FontLab.
+
+Additional versions contributed by [Frederik Berlaen](http://typemytype.com/) and [Paul van der Laan](http://type-invaders.com/)
+
+Distributed by Gustavo Ferreira.
 
 Installation
 ------------
