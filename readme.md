@@ -8,7 +8,7 @@ Credits
 
 Pixel brush was developed by [Hartmut Bohnacker](http://hartmut-bohnacker.de/) in 2005, based on one of the macro tools included in FontLab.
 
-Additional versions contributed by [Frederik Berlaen](http://typemytype.com/) and [Paul van der Laan](http://type-invaders.com/).
+Additional versions contributed by [Paul van der Laan](http://type-invaders.com/) (pixel size variable according to FontLab grid preferences) and [Frederik Berlaen](http://typemytype.com/) (cross stitch brush).
 
 Distributed by [Gustavo Ferreira](http://hipertipo.com/).
 
