@@ -16,8 +16,8 @@ Installation
 ------------
 
 1. download the file Pixel125.py
-2. put it inside the folder `FontLab/Data/Macros/System/Tool`
-3. start FontLab
+2. put it inside the folder `/Library/Application Support/FontLab/Studio 5/Macros/System/Tool`
+3. re-start FontLab
 
 Using the brush
 ---------------
